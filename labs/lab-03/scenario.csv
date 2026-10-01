@@ -1,0 +1,6 @@
+case_id,executive_decision,source_input,copilot_action,expected_artifact,decision_gate,challenge,outcome_measure
+NS-11,Explore Excel data,Synthetic monthly service-volume workbook,Ask Copilot in Excel to surface patterns and outliers,Trend summary,Check chart and denominator against workbook,An outlier is presented as a trend,Patterns confirmed
+NS-12,Build a simple chart,Synthetic before-and-after service table,Use Copilot in Excel to propose a clear chart,Annotated comparison chart,Use comparable periods and units,Axis hides change or variation,Correctly labelled charts
+NS-13,Prepare a Teams meeting,"Pilot objective, questions and decision owner",Use Copilot to prepare a concise meeting agenda,Decision agenda,Chair confirms questions and owner,Meeting has no decision to make,Decisions reached
+NS-14,Review meeting recap,Synthetic Teams transcript and dissent note,Use Copilot in Teams to summarize decisions and actions,Validated action log,"Chair checks speakers, owners and dates",Action is attributed to wrong person,Actions confirmed
+NS-15,Follow up after meeting,Validated action log and unresolved questions,Use Copilot Chat or Outlook to draft an unsent follow-up,Reviewed follow-up message,Owner approves external distribution,Dissent or hold condition is omitted,Actions closed on time

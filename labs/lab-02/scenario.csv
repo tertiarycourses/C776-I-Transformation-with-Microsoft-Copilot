@@ -1,0 +1,6 @@
+case_id,executive_decision,source_input,copilot_action,expected_artifact,decision_gate,challenge,outcome_measure
+NS-06,Draft a Word brief,Approved pilot notes and service baseline,Use Copilot in Word to draft a two-page decision brief,Reviewed Word brief,Sponsor checks numbers and recommendation,Copilot invents a benefit estimate,Verified material claims
+NS-07,Refine executive tone,A rough draft for a leadership audience,Ask Copilot in Word to shorten and clarify the recommendation,Concise executive summary,Human owner signs the final message,Important caveat disappears,Decisions understood in review
+NS-08,Create board slides,Approved Word brief and baseline chart,Use Copilot in PowerPoint to create a five-slide decision story,Board presentation,Trace every chart to approved values,Slide claim exceeds the source,Figures checked before review
+NS-09,Draft Outlook update,Approved pilot decision and open actions,Use Copilot in Outlook to prepare a status message,Unsent status draft,Sponsor approves recipients and commitments,An unapproved promise is sent,Messages approved before sending
+NS-10,Use Researcher carefully,Synthetic policy and market question,"Use Researcher if available to gather sources, or compare supplied documents",Source and uncertainty list,"Validate dates, claims and relevance",Research summary treats weak source as fact,Sources verified

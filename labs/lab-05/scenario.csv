@@ -1,0 +1,6 @@
+case_id,executive_decision,source_input,copilot_action,expected_artifact,decision_gate,challenge,outcome_measure
+NS-21,Check data access,Two synthetic role-based document sets,Review what a workflow can read and where output goes,Data boundary map,Data owner approves sources and recipients,Restricted content reaches a broad channel,Unexpected access findings
+NS-22,Verify source freshness,Current and retired service rules,Test the draft workflow against both versions,Source test record,Current rule governs action,Retired rule triggers an action,Current-source rate
+NS-23,Set approval responsibility,"Service, risk and IT roles","Assign who reviews, pauses and restores a workflow",Plain-language responsibility card,Each consequential action has an owner,Everyone assumes another team approves,Controls with named owners
+NS-24,Plan incident response,Synthetic misrouted notification,"Write a pause, contain, notify and retest path",Incident response card,Risk owner decides restart,Workflow continues after a failure,Time to pause
+NS-25,Review workflow value,Five sample requests and review minutes,Compare manual and assisted handoff times,Workflow pilot scorecard,Include human review and error effort,Gross time saved is called net value,Net minutes per case

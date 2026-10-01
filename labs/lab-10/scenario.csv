@@ -1,0 +1,6 @@
+case_id,executive_decision,source_input,copilot_action,expected_artifact,decision_gate,challenge,outcome_measure
+NS-46,Prioritize use cases,Five candidate Copilot opportunities,"Rank outcome, readiness, risk and owner",Opportunity portfolio,Reject ownerless opportunity,Highest volume is treated as highest value,Validated value per case
+NS-47,Design ninety days,Pilot observations and manager capacity,"Sequence chat, workflow and agent waves",Ninety-day roadmap,Each wave has owner and gate,Rollout outruns support,Wave gates met
+NS-48,Tell the board,Verified pilot outcome and open risks,Use Copilot in PowerPoint to draft a board update,Board scorecard,Every claim has source and date,Risk disappears from narrative,Claims traceable
+NS-49,Challenge the case,A confident recommendation and downside scenario,Ask Copilot Chat for counterarguments,Decision challenge log,Executive answers strongest objection,Polished demo substitutes for evidence,Objections resolved
+NS-50,Make the call,"Portfolio, roadmap and scorecard","Record the sponsor go, hold or stop decision",Signed transformation decision,Owner names next review date,Decision has no accountable owner,Conditions met on time

@@ -1,0 +1,220 @@
+%PDF-1.3
+%‚„œ”
+1 0 obj
+<<
+/PageMode /UseNone
+/Pages 2 0 R
+/Type /Catalog
+>>
+endobj
+2 0 obj
+<<
+/Count 1
+/Kids [ 3 0 R ]
+/Type /Pages
+>>
+endobj
+3 0 obj
+<<
+/Contents 4 0 R
+/MediaBox [ 0 0 595 842 ]
+/Parent 2 0 R
+/Resources <<
+/Font 5 0 R
+/ProcSet [ /PDF /Text /ImageB /ImageC /ImageI ]
+>>
+/Rotate 0
+/Trans <<
+>>
+/Type /Page
+>>
+endobj
+4 0 obj
+<<
+/Length 5026
+>>
+stream
+1 0 0 1 0 0 cm  BT /F1 12 Tf 14.4 TL ET
+q
+1 0 0 1 54 766 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 4 Tm /F2 18 Tf 22 TL (Copy-ready executive Copilot prompts) Tj T* ET
+Q
+Q
+q
+1 0 0 1 54 754 cm
+Q
+q
+1 0 0 1 54 742 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 3 Tm /F1 9 Tf 12 TL (C776 \267 v1.0 \267 1 October 2026) Tj T* ET
+Q
+Q
+q
+1 0 0 1 54 736 cm
+Q
+q
+1 0 0 1 54 700 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 27 Tm /F1 9 Tf 12 TL (Use these in an approved Microsoft 365 work account. Attach or paste only the synthetic source pack. Workflows may) Tj T* (require Frontier access and features vary by tenant. If a feature is unavailable, use these prompts as an offline design and) Tj T* (test framework; label the result simulated.) Tj T* ET
+Q
+Q
+q
+1 0 0 1 54 694 cm
+Q
+q
+1 0 0 1 54 664 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 4 Tm /F2 14 Tf 18 TL (NS-26 \227 Choose agent purpose) Tj T* ET
+Q
+Q
+q
+1 0 0 1 54 588 cm
+%PreformattedPara
+0 0 0 rg
+BT 1 0 0 1 0 62.8 Tm /F3 7.2 Tf 10 TL (Help me complete a Microsoft 365 Copilot business task. I am reviewing recurring employee policy ) Tj T* (questions. Use only the attached Northstar Service source pack, particularly NS-26. Define one ) Tj T* (bounded use for Copilot Agent Builder. Draft agent purpose statement for a leadership audience. ) Tj T* (Show the source behind every material claim, label assumptions, surface the strongest ) Tj T* (counterargument, and state what the human decision owner must verify. Apply this decision gate: ) Tj T* (Owner excludes high-impact decisions. Do not invent figures or claim that a simulated action was ) Tj T* (deployed.) Tj T* ET
+Q
+q
+1 0 0 1 54 575 cm
+Q
+q
+1 0 0 1 54 545 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 4 Tm /F2 14 Tf 18 TL (NS-27 \227 Write instructions) Tj T* ET
+Q
+Q
+q
+1 0 0 1 54 469 cm
+%PreformattedPara
+0 0 0 rg
+BT 1 0 0 1 0 62.8 Tm /F3 7.2 Tf 10 TL (Help me complete a Microsoft 365 Copilot business task. I am reviewing approved policy excerpts and ) Tj T* (role statement. Use only the attached Northstar Service source pack, particularly NS-27. Describe ) Tj T* (audience, task, boundaries and escalation in Agent Builder. Draft agent instructions draft for a ) Tj T* (leadership audience. Show the source behind every material claim, label assumptions, surface the ) Tj T* (strongest counterargument, and state what the human decision owner must verify. Apply this decision ) Tj T* (gate: Owner checks failure and escalation wording. Do not invent figures or claim that a simulated ) Tj T* (action was deployed.) Tj T* ET
+Q
+q
+1 0 0 1 54 456 cm
+Q
+q
+1 0 0 1 54 426 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 4 Tm /F2 14 Tf 18 TL (NS-28 \227 Add knowledge) Tj T* ET
+Q
+Q
+q
+1 0 0 1 54 360 cm
+%PreformattedPara
+0 0 0 rg
+BT 1 0 0 1 0 52.8 Tm /F3 7.2 Tf 10 TL (Help me complete a Microsoft 365 Copilot business task. I am reviewing current synthetic policy ) Tj T* (files. Use only the attached Northstar Service source pack, particularly NS-28. Attach approved ) Tj T* (knowledge sources in Agent Builder. Draft knowledge-source register for a leadership audience. Show ) Tj T* (the source behind every material claim, label assumptions, surface the strongest counterargument, ) Tj T* (and state what the human decision owner must verify. Apply this decision gate: Data owner validates ) Tj T* (permissions and versions. Do not invent figures or claim that a simulated action was deployed.) Tj T* ET
+Q
+q
+1 0 0 1 54 347 cm
+Q
+q
+1 0 0 1 54 317 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 4 Tm /F2 14 Tf 18 TL (NS-29 \227 Create starter prompts) Tj T* ET
+Q
+Q
+q
+1 0 0 1 54 251 cm
+%PreformattedPara
+0 0 0 rg
+BT 1 0 0 1 0 52.8 Tm /F3 7.2 Tf 10 TL (Help me complete a Microsoft 365 Copilot business task. I am reviewing three common user questions. ) Tj T* (Use only the attached Northstar Service source pack, particularly NS-29. Write clear starter ) Tj T* (prompts for the agent. Draft starter prompt set for a leadership audience. Show the source behind ) Tj T* (every material claim, label assumptions, surface the strongest counterargument, and state what the ) Tj T* (human decision owner must verify. Apply this decision gate: Business user can understand each ) Tj T* (prompt. Do not invent figures or claim that a simulated action was deployed.) Tj T* ET
+Q
+q
+1 0 0 1 54 238 cm
+Q
+q
+1 0 0 1 54 208 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 4 Tm /F2 14 Tf 18 TL (NS-30 \227 Preview a response) Tj T* ET
+Q
+Q
+q
+1 0 0 1 54 142 cm
+%PreformattedPara
+0 0 0 rg
+BT 1 0 0 1 0 52.8 Tm /F3 7.2 Tf 10 TL (Help me complete a Microsoft 365 Copilot business task. I am reviewing typical policy question with ) Tj T* (source answer. Use only the attached Northstar Service source pack, particularly NS-30. Test the ) Tj T* (agent preview and compare to source. Draft agent response review for a leadership audience. Show ) Tj T* (the source behind every material claim, label assumptions, surface the strongest counterargument, ) Tj T* (and state what the human decision owner must verify. Apply this decision gate: Owner verifies ) Tj T* (accuracy and citation. Do not invent figures or claim that a simulated action was deployed.) Tj T* ET
+Q
+q
+1 0 0 1 54 129 cm
+Q
+ 
+
+endstream
+endobj
+5 0 obj
+<<
+/F1 6 0 R
+/F2 7 0 R
+/F3 8 0 R
+>>
+endobj
+6 0 obj
+<<
+/BaseFont /Helvetica
+/Encoding /WinAnsiEncoding
+/Name /F1
+/Subtype /Type1
+/Type /Font
+>>
+endobj
+7 0 obj
+<<
+/BaseFont /Helvetica-Bold
+/Encoding /WinAnsiEncoding
+/Name /F2
+/Subtype /Type1
+/Type /Font
+>>
+endobj
+8 0 obj
+<<
+/BaseFont /Courier
+/Encoding /WinAnsiEncoding
+/Name /F3
+/Subtype /Type1
+/Type /Font
+>>
+endobj
+9 0 obj
+<<
+/Author (\050anonymous\051)
+/CreationDate (D\07220260928205118\05301\04700\047)
+/Creator (\050unspecified\051)
+/Keywords ()
+/ModDate (D\07220260928205118\05301\04700\047)
+/Producer (ReportLab PDF Library \055 \050opensource\051)
+/Subject (\050unspecified\051)
+/Title (prompt\055cards)
+/Trapped /False
+>>
+endobj
+xref
+0 10
+0000000000 65535 f 
+0000000015 00000 n 
+0000000083 00000 n 
+0000000142 00000 n 
+0000000331 00000 n 
+0000005409 00000 n 
+0000005460 00000 n 
+0000005567 00000 n 
+0000005679 00000 n 
+0000005784 00000 n 
+trailer
+<<
+/Size 10
+/Root 1 0 R
+/Info 9 0 R
+/ID [ <bad3d0b98e9d245e08916f1fd5c76755> <bad3d0b98e9d245e08916f1fd5c76755> ]
+>>
+startxref
+6106
+%%EOF

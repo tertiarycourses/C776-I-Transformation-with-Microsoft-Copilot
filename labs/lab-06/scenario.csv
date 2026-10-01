@@ -1,0 +1,6 @@
+case_id,executive_decision,source_input,copilot_action,expected_artifact,decision_gate,challenge,outcome_measure
+NS-26,Choose agent purpose,Recurring employee policy questions,Define one bounded use for Copilot Agent Builder,Agent purpose statement,Owner excludes high-impact decisions,Agent has no clear scope,In-scope answer rate
+NS-27,Write instructions,Approved policy excerpts and role statement,"Describe audience, task, boundaries and escalation in Agent Builder",Agent instructions draft,Owner checks failure and escalation wording,Agent implies it can approve policy,Escalations handled
+NS-28,Add knowledge,Current synthetic policy files,Attach approved knowledge sources in Agent Builder,Knowledge-source register,Data owner validates permissions and versions,Retired file remains attached,Approved sources used
+NS-29,Create starter prompts,Three common user questions,Write clear starter prompts for the agent,Starter prompt set,Business user can understand each prompt,Prompts ask for unsupported decisions,Prompt completion rate
+NS-30,Preview a response,Typical policy question with source answer,Test the agent preview and compare to source,Agent response review,Owner verifies accuracy and citation,Confident answer is unsupported,Correct answers per test

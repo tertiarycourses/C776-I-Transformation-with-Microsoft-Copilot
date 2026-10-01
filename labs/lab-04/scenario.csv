@@ -1,0 +1,6 @@
+case_id,executive_decision,source_input,copilot_action,expected_artifact,decision_gate,challenge,outcome_measure
+NS-16,Spot a repeatable handoff,Synthetic email requests and missed deadlines,Describe a Microsoft 365 Copilot Workflows opportunity in plain language,Workflow opportunity card,Process owner confirms a repeatable trigger,One-off judgment is automated,Handoff time
+NS-17,Define trigger and result,Service request email with fictional fields,"Ask Workflows to draft trigger, steps and intended output",Trigger-to-result map,Owner verifies trigger is precise,Wrong message starts workflow,Correctly triggered cases
+NS-18,Add review step,Draft acknowledgement and case summary,Ask Workflows to route draft for human approval,Human review gate,No external commitment before approval,Message sends without review,Unapproved sends
+NS-19,Test exceptions,Missing case owner and contradictory priority,Test workflow with normal and exception examples,Test and exception log,Hold unknown owner or conflicting input,Exception is silently routed,Exceptions detected
+NS-20,Decide to activate,Workflow test record and accountable owner,"Review Workflows draft, permissions and run history before enabling",Go or hold record,Owner approves live activation in authorised tenant,Simulation is described as deployed,Approved runs
